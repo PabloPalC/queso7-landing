@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 \"C:\\\\Users\\\\User\\\\.claude\\\\skills\\\\ui-ux-pro-max\\\\scripts\\\\search.py\" \"bakery cheesecake dessert local shop green elegant\" --design-system -p \"Queso 7\")",
+      "Bash(python \"C:\\\\Users\\\\User\\\\.claude\\\\skills\\\\ui-ux-pro-max\\\\scripts\\\\search.py\" \"bakery cheesecake dessert local shop green elegant\" --design-system -p \"Queso 7\")",
+      "Read(//c/Users/User/.claude/skills/ui-ux-pro-max/**)",
+      "Bash(python \"C:\\\\Users\\\\User\\\\.claude\\\\skills\\\\ui-ux-pro-max\\\\src\\\\ui-ux-pro-max\\\\scripts\\\\search.py\" \"bakery cheesecake dessert local shop green elegant\" --design-system -p \"Queso 7\")",
+      "mcp__magic__21st_magic_component_inspiration"
+    ]
+  }
+}
